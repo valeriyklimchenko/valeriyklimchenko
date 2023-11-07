@@ -4,10 +4,12 @@
 <a href="https://github.com/valeriyklimchenko/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriyklimchenko&layout=compact" /></a>
  </p>
  ### Мои проекты
+Социальная сеть https://github.com/valeriyklimchenko/ios-homeworks/tree/feature/diplom2
 
  ### Сертификаты
- swift https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.jpeg
+ Swift https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma.jpeg
 
  ### Диплом
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
 
  
