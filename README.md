@@ -7,8 +7,6 @@
 
  ### Сертификаты
  swift
-![Диплом](https://github.com/valeriyklimchenko/valeriyklimchenko/assets/37571454/858c9fbd-547b-4879-881c-5e0404fc8e17)
-![Приложение](https://github.com/valeriyklimchenko/valeriyklimchenko/assets/37571454/ad3213c9-9521-4881-956c-ca52a9254613)
 
 
  ### Диплом
