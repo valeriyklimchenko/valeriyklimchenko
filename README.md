@@ -5,7 +5,10 @@
 
 <div id="socials" align="center">
 <a href="https://t.me/valeron_ios">
-  <img src="https=//img.shield.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+  <a href="https://klimmail.ru@mail.ru">
+  <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
 </div>
 
