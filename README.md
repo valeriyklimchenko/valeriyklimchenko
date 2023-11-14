@@ -13,4 +13,8 @@
  ### Диплом
  https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
 
+### Контакты
+- тел. +7 (915) 999 51 24
+- email: klimmail.ru@mail.ru
+- Telegram: ![@valeron_ios](https://t.me/valeron_ios)
  
