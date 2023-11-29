@@ -27,13 +27,13 @@
 - :computer: иногда пишу код на python для себя
 - :uk: перевожу текст с английского, используя возможности интернета
 
-### Языки и инструменты
+### Языки и инструменты :hammer_and_wrench:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>
 
 
-### Моя статистика
+### Моя статистика :chart_with_upwards_trend:
 <div id="stat" align="center">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=valeriyklimchenko&show_icons=true&count_private=true"/>
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriyklimchenko&layout=compact"/></a>
@@ -46,16 +46,17 @@
 </div>
  
  ## Мои проекты
-Социальная сеть https://github.com/valeriyklimchenko/ios-homeworks/tree/feature/diplom2
+:speaking_head: Социальная сеть https://github.com/valeriyklimchenko/ios-homeworks/tree/feature/diplom2
 
  ### Сертификаты
- Swift https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma.jpeg
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp;
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma.jpeg
 
- ### Диплом
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
+ ### Диплом о высшем образовании
+ :microscope: https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
 
 ### Контакты
-- тел. +7 (915) 999 51 24
-- email: klimmail.ru@mail.ru
+- :phone: +7 (915) 999 51 24
+- :mailbox_with_mail: klimmail.ru@mail.ru
 - Telegram: ![@valeron_ios](https://t.me/valeron_ios)
  
