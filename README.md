@@ -6,19 +6,6 @@
 <div id="socials" align="center">
 <a href="https://t.me/valeron_ios">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
-
-  <!--
-</a>
-  <a href="https://klimmail.ru@mail.ru">
-  - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-  <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
--->
-[//]: # ( Это комментарий! )
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
-  <!-- …wwewewe -->
 </div>
 
 
@@ -57,6 +44,7 @@
 
 ### Контакты
 - :phone: +7 (915) 999 51 24
-- :mailbox_with_mail: klimmail.ru@mail.ru
-- Telegram: ![@valeron_ios](https://t.me/valeron_ios)
- 
+- :mailbox_with_mail: <klimmail.ru@mail.ru>
+- <div id="socials" align="left"> <a href="https://t.me/valeron_ios">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/> 
+  </div>
