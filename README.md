@@ -9,16 +9,24 @@
 </div>
 
 
-### Обо мне
+## Обо мне
 - :bicyclist:	Люблю велопрогулки
 - :computer: иногда пишу код на python для себя
 - :uk: перевожу текст с английского, используя возможности интернета
 
-### Языки и инструменты :hammer_and_wrench:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>
+## Языки и инструменты :hammer_and_wrench:
+### Технические навыки:
+<ul>
+<li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
+<li>Xcode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" title="xcode" width="20" height="20"/>&nbsp</li>
+<li>IOS SDK</li>
+<li>UI: Storyboard, Autolayout, Constraints</li>
+<li>Git<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="20" height="20"/>&nbsp</li>
+<li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
+<li>OOP</li>
 
+<li>Apple Human Interface Guidelines</li>
+</ul>
 
 ### Моя статистика :chart_with_upwards_trend:
 <div id="stat" align="center">
