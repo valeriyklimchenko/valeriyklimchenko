@@ -40,11 +40,11 @@
 </div>
  
  ## Мои проекты
-:speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time (https://www.behance.net/gallery/214121787/Screen-Time/modules/1218305231)
+:speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time/modules/1218305231
 
  ### Сертификаты
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma.jpeg
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="swift" width="20" height="20"/>&nbsp;
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Дизайн интерфейсов.pdf
 
  ### Диплом о высшем образовании
  :microscope: https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
