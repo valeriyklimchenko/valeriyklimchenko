@@ -10,7 +10,7 @@
 
 
 ## Обо мне
-- :bicyclist:	Люблю велопрогулки
+- :bicyclist:	Люблю путешествовать и велопрогулки
 - :computer: иногда пишу код на python и swift для себя
 - :uk: перевожу текст с английского, используя возможности интернета
 
@@ -24,20 +24,7 @@
 
 <li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
 <li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
-
 </ul>
-
-### Моя статистика :chart_with_upwards_trend:
-<div id="stat" align="center">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=valeriyklimchenko&show_icons=true&count_private=true"/>
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriyklimchenko&layout=compact"/></a>
-</div>
-
- <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valeriyklimchenko&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valeriyklimchenko&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valeriyklimchenko&theme=github_dark" alt=""/>
-</div>
  
  ## Мои проекты
 :speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time/modules/1218305231
