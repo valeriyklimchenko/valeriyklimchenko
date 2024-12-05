@@ -14,8 +14,12 @@
 - :computer: иногда пишу код на python и swift для себя
 - :uk: перевожу текст с английского, используя возможности интернета
 
-## Языки и инструменты :hammer_and_wrench:
-### Основные компетенции:
+## Мои качества
+- Коммуникабелен, умею работать в команде
+- Есть огномное желание создавать новые интерфейсы
+- Если у меня возникают идеи, то я не стану молчать
+
+## Основные компетенции :hammer_and_wrench:
 <ul>
 <li>Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp</li>          
   
@@ -25,6 +29,8 @@
 <li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
 <li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
 </ul>
+
+## 
  
  ## Мои проекты
 :speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time/modules/1218305231
