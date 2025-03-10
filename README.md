@@ -33,7 +33,7 @@
 ## 
  
  ## Мои проекты
-:speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time/modules/1218305231
+:speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time/modules/1219462963
 
  ### Сертификаты
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
@@ -43,7 +43,7 @@
  https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate .jpeg
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg
 
  
 
