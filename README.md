@@ -22,6 +22,7 @@
 ## Основные компетенции :hammer_and_wrench:
 <ul>
 <li>Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp</li>          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp;<\li>
   
 <li>Git<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="20" height="20"/>&nbsp</li>
 <li>Apple Human Interface Guidelines</li>
@@ -43,7 +44,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
  https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp;
  https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg
 
  
