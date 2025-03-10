@@ -39,8 +39,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; [Анимация Сбер Карты](https://www.behance.net/gallery/221077895/SberCard-animation)
 
  ### Сертификаты и дипломы
- [Screen Time](https://behance.net/gallery/214121787/Screen-Time)
- [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 :microscope: [Диплом о высшем образовании](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg)
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
