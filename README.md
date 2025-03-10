@@ -35,7 +35,7 @@
 ## 
  
  ## Мои проекты
-:speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time
+:speaking_head: Приложение для телефона "Менеджер Экранного времени" - Screen Time https://www.behance.net/gallery/214121787/Screen-Time;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; Анимация Сбер Карты: https://www.behance.net/gallery/221077895/SberCard-animation
 
  ### Сертификаты
