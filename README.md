@@ -36,7 +36,7 @@
  
  ## Мои проекты
 <li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)</li>
-This site was built using [GitHub Pages](https://pages.github.com/)
+<div id="socials" align="left"> <a href="[https://t.me/ValeronDesign](https://www.behance.net/gallery/214121787/Screen-Time)">  </div>
 </li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; Анимация Сбер Карты: https://www.behance.net/gallery/221077895/SberCard-animation</li>
 
