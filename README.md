@@ -39,7 +39,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; [Анимация Сбер Карты](https://www.behance.net/gallery/221077895/SberCard-animation)
 
  ### Сертификаты и дипломы
-:microscope:  [Диплом о высшем образовании](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg)
+:microscope: [ Диплом о высшем образовании](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg)
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
  [Специалист в области дизайна интерфейсов](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface_design.pdf)
