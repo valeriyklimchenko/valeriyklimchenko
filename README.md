@@ -37,13 +37,13 @@
 
  ### Сертификаты
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface design.pdf
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface_design.pdf
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma certificate.jpg
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender сertificate .jpeg
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate .jpeg
 
  
 
