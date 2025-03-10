@@ -36,7 +36,13 @@
  
  ## Мои проекты
 <li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)</li>
-<div id="socials" align="left"> <a href="[https://t.me/ValeronDesign](https://www.behance.net/gallery/214121787/Screen-Time)">  </div>
+
+<div id="socials" align="left"> <a href="https://www.behance.net/gallery/214121787/Screen-Time">  </div>
+
+<div id="socials" align="left"> <a href="https://t.me/ValeronDesign">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/> 
+  </div>
+  
 </li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; Анимация Сбер Карты: https://www.behance.net/gallery/221077895/SberCard-animation</li>
 
