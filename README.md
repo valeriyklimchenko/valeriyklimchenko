@@ -35,6 +35,8 @@
  
  ## Мои проекты
  [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
+ :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
+ <li> :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 <li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 </li>
   
