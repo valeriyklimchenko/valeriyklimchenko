@@ -38,7 +38,7 @@
 <li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" - <div id="socials" align="left"> <a href="https://www.behance.net/gallery/214121787/Screen-Time"> Screen Time </div>
 </li>
   
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </a>div></li>
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </a></div></li>
 
  ### Сертификаты
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
