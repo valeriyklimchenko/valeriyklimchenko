@@ -34,13 +34,9 @@
 ## 
  
  ## Мои проекты
- [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
- :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
- <li> :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
-<li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
-</li>
+- :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time]
   
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </div></li>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; [Анимация Сбер Карты](https://www.behance.net/gallery/221077895/SberCard-animation)
 
  ### Сертификаты и дипломы
  [Screen Time](https://behance.net/gallery/214121787/Screen-Time)
