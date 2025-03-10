@@ -23,7 +23,7 @@
 <ul>
 <li>Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp</li>
   
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp</li>
+<li>Blender<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp</li>
   
 <li>Git<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="20" height="20"/>&nbsp</li>
 <li>Apple Human Interface Guidelines</li>
