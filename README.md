@@ -2,7 +2,8 @@
 <h1> Привет, я Валерий Климченко, </h1>
 <h3>  UI/UX дизайнер </h3>
 </div>
-
+  [Link text Here](https://link-url-here.org)
+  [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 <div id="socials" align="center">
 <a href="https://t.me/valerondesign">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -35,9 +36,9 @@
 ## 
  
  ## Мои проекты
-<li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" -<div><a href="https://www.behance.net/gallery/214121787/Screen-Time"> Screen Time </div>
-  [Link text Here](https://link-url-here.org)
+   [Link text Here](https://link-url-here.org)
   [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
+<li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" -<div><a href="https://www.behance.net/gallery/214121787/Screen-Time"> Screen Time </div>
 </li>
   
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </div></li>
