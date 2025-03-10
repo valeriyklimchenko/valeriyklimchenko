@@ -34,12 +34,15 @@
 ## 
  
  ## Мои проекты
+ [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 <li>:speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 </li>
   
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </div></li>
 
  ### Сертификаты и дипломы
+ [Screen Time](https://behance.net/gallery/214121787/Screen-Time)
+ [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
 :microscope: [Диплом о высшем образовании](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg)
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
@@ -48,11 +51,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;[Анимация в фигма](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp; [3D дизайн](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg)
-
- 
-
- ### Диплом о высшем образовании
- :microscope: https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
 
 ### Контакты
 - :phone: +7 (915) 999 51 24
