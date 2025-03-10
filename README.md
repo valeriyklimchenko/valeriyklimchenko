@@ -37,7 +37,15 @@
 
  ### Сертификаты
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Design.pdf
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface design.pdf
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma certificate.jpg
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp;
+ https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender сertificate .jpeg
+
+ 
 
  ### Диплом о высшем образовании
  :microscope: https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg
