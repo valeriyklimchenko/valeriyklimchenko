@@ -2,6 +2,7 @@
 <h1> Привет, я Валерий Климченко, </h1>
 <h3>  UI/UX дизайнер </h3>
 </div>
+[Link text Here](https://link-url-here.org)
 
 <div id="socials" align="center">
 <a href="https://t.me/valerondesign">
