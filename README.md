@@ -44,17 +44,14 @@
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </div></li>
 
  ### Сертификаты и дипломы
- :microscope: <div> <a href="https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg"> Диплом о высшем образовании </div>
-:microscope:[Диплом о высшем образовании](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg)
+:microscope: [Диплом о высшем образовании](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg)
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface_design.pdf
+ [Специалист в области дизайна интерфейсов](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface_design.pdf)
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;[Анимация в фигма](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp;
- https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp; [3D дизайн](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg)
 
  
 
