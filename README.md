@@ -40,7 +40,9 @@
   
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; <div> <a href="https://www.behance.net/gallery/221077895/SberCard-animation"> Анимация Сбер Карты </div></li>
 
- ### Сертификаты
+ ### Сертификаты и дипломы
+ :microscope: <div> <a hgef="https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Diploma2011.jpg"> Диплом о высшем образовании </div>
+ 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
  https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface_design.pdf
 
