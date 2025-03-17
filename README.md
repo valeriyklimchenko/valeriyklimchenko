@@ -29,9 +29,7 @@
 
 <li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
 <li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
-<li> Tilda 
-![Image alt](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/tilda_logo_black.png)
-</li>
+<li> ![Image alt](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/tilda_logo_black.png) </li>
 </ul>
 
 ## 
