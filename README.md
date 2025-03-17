@@ -21,16 +21,13 @@
 ## Основные компетенции :hammer_and_wrench:
 <ul>
 <li>Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp</li>
-
 <li>Photoshop <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Ps" width="20" height="20"/>&nbsp</li>  
 <li>Blender <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp</li>
-  
+<li>Tilda <img src="https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/tilda_logo_white.png" title="tilda" width="20" height="20"/>&nbsp</li>
 <li>Git<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="20" height="20"/>&nbsp</li>
 <li>Apple Human Interface Guidelines</li>
-
 <li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
 <li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
-<li>Tilda <img src="https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/tilda_logo_white.png" title="tilda" width="20" height="20"/>&nbsp</li>
 </ul>
 
 ## 
