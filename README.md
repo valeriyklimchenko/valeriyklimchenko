@@ -9,6 +9,7 @@
 
 
 ## Обо мне
+- :dancing: или :dancer:
 - :bicyclist:	Люблю путешествовать и велопрогулки
 - :computer: иногда пишу код на python и swift для себя
 - :uk: перевожу текст с английского, используя возможности интернета
@@ -43,7 +44,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;
  [Специалист в области дизайна интерфейсов](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Interface_design.pdf)
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;[Анимация в фигма](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp;[Анимация в фигме](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Figma_certificate.jpg)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp; [3D дизайн](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg)
 
