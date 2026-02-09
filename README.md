@@ -7,20 +7,7 @@
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div>
 
-
-## Обо мне
-- :1st_place_medal: Занимаюсь спортивными танцами: Буги-Вуги.
-- :muscle: Регулярно хожу в спортзал
-- :bicyclist:	Люблю путешествовать и велопрогулки
-- :computer: иногда пишу код на python и swift для себя
-- :uk: перевожу текст с английского, используя возможности интернета
-
-## Мои качества
-- Коммуникабелен, умею работать в команде
-- Есть огромное желание создавать новые интерфейсы
-- Если у меня возникают идеи, то я не стану молчать
-
-## Основные компетенции :hammer_and_wrench:
+## Основные компетенции
 <ul>
 <li>Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp</li>
 <li>Photoshop <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Ps" width="20" height="20"/>&nbsp</li>  
@@ -31,9 +18,10 @@
 <li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
 <li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
 </ul>
-
-## 
- 
+ ## Софт скилы
+- Открыт к конструктивной обратной связи и использую её для профессионального роста
+- Ориентирован на постоянное самоулучшение через анализ собственных решений
+- Коммуникабелен, стрессоустойчив, ответственнен
  ## Мои проекты
 - :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
   
@@ -49,9 +37,16 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp; [3D дизайн](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg)
 
+## Обо мне
+- Занимаюсь спортивными танцами: Буги-Вуги.
+- Регулярно хожу в спортзал
+- Люблю путешествовать и велопрогулки
+- иногда пишу код на python и swift для себя
+- перевожу текст с английского, используя возможности интернета
+
 ### Контакты
-- :phone: +7 (915) 999 51 24
-- :mailbox_with_mail: <klimmail.ru@mail.ru>
 - <div id="socials" align="left"> <a href="https://t.me/ValeronDesign">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/> 
   </div>
+- :phone: +7 (915) 999 51 24
+- :mailbox_with_mail: <klimmail.ru@mail.ru>
