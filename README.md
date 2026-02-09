@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div>
 
-## Основные компетенции
+  ## Основные компетенции
 <ul>
 <li>Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="20" height="20"/>&nbsp</li>
 <li>Photoshop <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Ps" width="20" height="20"/>&nbsp</li>  
@@ -18,11 +18,12 @@
 <li>Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="20" height="20"/></li>
 <li>Swift <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="swift" width="20" height="20"/>&nbsp</li>
 </ul>
- ## Софт скилы
+
+## Софт скилы
 - Открыт к конструктивной обратной связи и использую её для профессионального роста
 - Ориентирован на постоянное самоулучшение через анализ собственных решений
 - Коммуникабелен, стрессоустойчив, ответственнен
- ## Мои проекты
+## Мои проекты
 - :speaking_head: Приложение для телефона "Менеджер Экранного времени" - [Screen Time](https://www.behance.net/gallery/214121787/Screen-Time)
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Figma" width="20" height="20"/>&nbsp; [Анимация Сбер Карты](https://www.behance.net/gallery/221077895/SberCard-animation)
