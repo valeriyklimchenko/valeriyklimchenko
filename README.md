@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" width="20" height="20"/>&nbsp; [3D дизайн](https://github.com/valeriyklimchenko/valeriyklimchenko/blob/main/Blender_сertificate.jpeg)
 
 ## Обо мне
+- Студент [Школы 21](https://21-school.ru/campuses/kampus-skoly-21-v-iaroslavle)
 - Занимаюсь спортивными танцами: Буги-Вуги.
 - Регулярно хожу в спортзал
 - Люблю путешествовать и велопрогулки
